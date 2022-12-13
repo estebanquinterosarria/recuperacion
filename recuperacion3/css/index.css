@@ -1,0 +1,260 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contenedor{
+    display: flex;
+    
+    height: 800px;
+    justify-content:center ;
+    align-items: center;
+}
+.seccion{
+    display: flex;
+    border: solid 1px;
+    height: 700px;
+    width: 400px;
+    flex-direction: column;
+    background-color: black;
+   
+    
+
+}
+.ar{
+    display: flex;
+  
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+.seccion1{
+    display: flex;
+    height: 60px;
+    
+}
+.seccion2{
+display: flex;
+width: 100%;
+margin-left: 140px;
+}
+.seccion3{
+    display: flex;
+   
+    width: 45px;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    display: flex;
+    
+    height: 50px;
+
+}
+.seccion4{
+    display: flex;
+    border: solid 1px;
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+    color: aliceblue;
+    
+}
+.seccion5{
+display: flex;
+
+height: 130px;
+}
+.articulo{
+    display: flex;
+    width: 130px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-image: url(/img/colores-mezclados-en-ondas-5844\ \(1\).jpg);
+    justify-content: center;
+    align-items:center ;
+    color: aliceblue;
+}
+.articulo30{
+    display: flex;
+    width: 130px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-image: url(/img/abstract-watercolor-texture-wallpaper-background-free-vector.jpg);
+    justify-content: center;
+    align-items:center ;
+    color: aliceblue;
+}
+.articulo31{
+    display: flex;
+    width: 130px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-image: url(/img/un-fondo-muy-colorido-con-diferentes-colores-delicado-pastel-para-diseños-en-manchados-interesantes-agradables-208123544.jpg);
+    justify-content: center;
+    align-items:center ;
+    color: aliceblue;
+}
+.titulo1{
+    display: flex;
+  
+    height: 50px;
+
+}
+.seccion6{
+    display: flex;
+    border: solid 1px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color:darkgrey ;
+    color: aliceblue;
+}
+.seccion7{
+    display: flex;
+
+height: 130px;
+}
+.articulo1{
+    display: flex;
+    border: solid 1px;
+    width: 165px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-image: url(/img/images.jfif);
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+.articuloo{
+    display: flex;
+    border: solid 1px;
+    width: 165px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-image: url(/img/images\ \(1\).jfif);
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+.titulo2{
+    display: flex;
+    
+    height: 50px;
+    align-items: center;
+}
+.articulo2{
+    display: flex;
+    
+    height: 310px;
+  flex-direction: column;
+}
+.articulo3{
+display: flex;
+
+height: 60px;
+margin-top: 5px;
+}
+.seccion8{
+    display: flex;
+    
+    width: 50px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-image: url(/img/descarga.jfif);
+}
+.seccion9{
+display: flex;
+width: 110px;
+justify-content: center;
+align-items: center;
+color: aliceblue;
+
+}
+.seccion10{
+    display: flex;
+    
+    width: 50px;
+    margin-left: 150px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+ color: aliceblue;
+    }
+    .seccion11{
+        display: flex;
+       
+        height: 65px;
+        border-radius: 20px;
+    }
+    .titulo4{
+        font-size: 30px;
+        
+    }
+    .fa-bell{
+       font-size: 20px;
+       color: aliceblue;
+    }
+    .fa-user{
+        color: aliceblue;
+    }
+    .seccion12{
+        display: flex;
+        
+        width: 800px;
+        justify-content: center;
+        align-items: center;
+        color: aliceblue;
+    }
+   
+.seccion14{
+    display: flex;
+    
+    width: 1200px;
+    
+    align-items: center;
+}
+.mn{
+font-size: 20px;
+margin-left: 20px;
+color: aliceblue;
+}
+h1{
+    font-size: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+.fa-solid {
+    font-size: 20px;
+}
+.articulo55{
+    display: flex;
+   
+    width: 100px;
+    border-radius: 20px; 
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.fa-house{
+    font-size: 20px;
+    color: aliceblue;
+}
+.fa-solid{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+    
